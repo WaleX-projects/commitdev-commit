@@ -1,0 +1,8 @@
+[functions.connect]
+verify_jwt = true
+
+[functions.publish-draft]
+verify_jwt = true
+
+[functions.compose-post]
+verify_jwt = true
